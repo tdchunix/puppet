@@ -1,7 +1,6 @@
 {
   "name": "tdchunix/puppet",
   "version": "0.1.0",
-  "author": "tdch",
   "summary": "Various Puppet stuffs",
   "license": "GPLv3",
   "source": "https://github.com/tdchunix/puppet",
