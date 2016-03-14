@@ -1,0 +1,7 @@
+{
+  "README.md": "038c8b8217f461e0b68952f993b377ea",
+  "facts/connectivity.rb": "d69d5d89fb1bade6bbf85d524d3d9d14",
+  "metadata.json": "24ffa4205743fdaee8914797c22f319a",
+  "modules/hypervtools/README.md": "d3c922864598325c7a9e871250db251a",
+  "modules/hypervtools/manifests/init.pp": "a69ba321b13fc43d62f4532c26811593"
+}
