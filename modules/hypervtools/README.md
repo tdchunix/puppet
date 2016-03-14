@@ -13,9 +13,9 @@
 
 This module installs the kernel modules and tools for HyperV guests.
 
-It assumes that :
-   * you have unpacked the Microsoft LIS 3.5 somewhere and added it as a repo on the servers.
+It assumes that the Microsoft LIS 3.5 is available from a repo.
 
+To add the repo:
 
 ```
 # Add our local copy of the packages from LIS
